@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    image: {
+    images: {
       domains: ['localhost'],  // Menambahkan 'localhost' sebagai domain gambar yang valid
     },
   };

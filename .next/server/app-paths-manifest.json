@@ -1,7 +1,1 @@
-{
-  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/api/kapal/route": "app/api/kapal/route.js",
-  "/page": "app/page.js",
-  "/admin/add-kapal/page": "app/admin/add-kapal/page.js"
-}
+{}
